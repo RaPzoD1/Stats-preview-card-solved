@@ -24,12 +24,22 @@ Users should be able to:
 
 ### Screenshot
 
+#### Desktop
+
+![image](https://user-images.githubusercontent.com/25336634/152629749-f360d4a9-dbff-4cf9-ab33-adcfff02ae80.png)
+
+
+#### Mobile
+
+![image](https://user-images.githubusercontent.com/25336634/152629769-e11f9d78-0849-4d04-919b-f576cd0a474b.png)
+
+
 
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/RaPzoD1/Stats-preview-card-solved)
+- Live Site URL: [Netlify](https://distracted-elion-122dfb.netlify.app/)
 
 ## My process
 
